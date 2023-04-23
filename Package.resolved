@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "camellm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CameLLM/CameLLM.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7e84d9cd3fe470acecac134683c955e47d198221"
+      }
+    }
+  ],
+  "version" : 2
+}
